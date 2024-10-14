@@ -6,6 +6,9 @@
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EB%B0%95-3a8153228/)](https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EB%B0%95-3a8153228/)-->
 
 ### 🎤 About Me
+- I'm thinking about developing a service with excellent maintenance and scalability.
+- I challenge new technologies with an open attitude.
+- I like to build up my knowledge by reading technical books.
 
 ### ✨ Career
 - [mailplug](https://www.mailplug.com/) FE Developer <sub>(Oct 2023 ~ ing)</sub>
