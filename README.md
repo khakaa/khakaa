@@ -3,7 +3,7 @@
 [![Résumé](https://img.shields.io/badge/Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://star-bearberry-7a2.notion.site/698a104ad5fa4a8eae45d4297995abd0)](https://star-bearberry-7a2.notion.site/698a104ad5fa4a8eae45d4297995abd0)
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://khakha.tistory.com/)](https://khakha.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:dev.harin210@gmail.com)](mailto:dev.harin210@gmail.com)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EB%B0%95-3a8153228/)](https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EB%B0%95-3a8153228/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/harin-park-3a8153228/)](https://www.linkedin.com/in/harin-park-3a8153228/)
 
 ### 🎤 About Me
 - I'm thinking about developing a service with excellent maintenance and scalability.
