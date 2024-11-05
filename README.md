@@ -11,7 +11,7 @@
 - I like to build up my knowledge by reading technical books.
 
 ### ✨ Career
-- [mailplug](https://www.mailplug.com/) FE Developer <sub>(Oct 2023 ~ ing)</sub>
+- [mailplug](https://www.mailplug.com/) FE Developer <sub>(Sep 2023 ~ ing)</sub>
 
 ### ✏️ Experience
 - [Frontend Tech Book Study](https://github.com/FE-TechBook-Study) <sub>(Aug 2024 ~ ing)</sub>
